@@ -1,0 +1,11 @@
+{
+  "form": {
+    "title": "New TODO",
+    "addTodoButton": "Add",
+    "filter": {
+      "all": "All",
+      "completed": "Completed",
+      "uncompleted": "Uncompleted"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "form": {
+    "title": "Nové TODO",
+    "addTodoButton": "Přidat",
+    "filter": {
+      "all": "Všechny",
+      "completed": "Dokončené",
+      "uncompleted": "Nedokončené"
+    }
+  }
+}
